@@ -29,5 +29,6 @@ export default async function handler(req, res) {
     } catch (err) {
       res.status(403).json({ err: "Error has occured while making a post" })
     }
+    console.log("test")
   }
 }
