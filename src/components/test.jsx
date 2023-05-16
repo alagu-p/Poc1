@@ -1,7 +1,7 @@
 const Test = () => {
     return (
         <div>
-            <h1>Server Rendered Page</h1>
+            <h1>Server Rendered Pages</h1>
         </div>
     )
 }
